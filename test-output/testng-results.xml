@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75276" started-at="2020-02-17T07:11:40Z" finished-at="2020-02-17T07:12:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75276" started-at="2020-02-17T07:11:40Z" finished-at="2020-02-17T07:12:55Z">
+      <class name="org.cts.Project1.Testnew">
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:org.cts.Project1.Testnew@28eaa59a]" name="BrowserLaunch" is-config="true" duration-ms="11810" started-at="2020-02-17T07:11:40Z" finished-at="2020-02-17T07:11:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method status="PASS" signature="Starttime()[pri:0, instance:org.cts.Project1.Testnew@28eaa59a]" name="Starttime" is-config="true" duration-ms="8" started-at="2020-02-17T07:11:52Z" finished-at="2020-02-17T07:11:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Starttime -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:org.cts.Project1.Testnew@28eaa59a]" name="Login" duration-ms="62471" started-at="2020-02-17T07:11:52Z" finished-at="2020-02-17T07:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="EndTime()[pri:0, instance:org.cts.Project1.Testnew@28eaa59a]" name="EndTime" is-config="true" duration-ms="1" started-at="2020-02-17T07:12:54Z" finished-at="2020-02-17T07:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTime -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:org.cts.Project1.Testnew@28eaa59a]" name="Close" is-config="true" duration-ms="930" started-at="2020-02-17T07:12:54Z" finished-at="2020-02-17T07:12:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- org.cts.Project1.Testnew -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
